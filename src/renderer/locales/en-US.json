@@ -1,0 +1,10 @@
+{
+  "common.welcome": "Welcome",
+  "common.language": "Language",
+  "common.chinese": "中文",
+  "common.english": "English",
+  "page.home.title": "electron-react-boilerplate",
+  "page.home.description": "A foundation for scalable desktop apps",
+  "page.home.readDocs": "📚 Read our docs",
+  "page.home.donate": "🙏 Donate"
+}

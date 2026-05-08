@@ -1,0 +1,10 @@
+{
+  "common.welcome": "欢迎",
+  "common.language": "语言",
+  "common.chinese": "中文",
+  "common.english": "English",
+  "page.home.title": "electron-react-boilerplate",
+  "page.home.description": "可扩展桌面应用程序的基础",
+  "page.home.readDocs": "📚 阅读文档",
+  "page.home.donate": "🙏 捐赠"
+}
